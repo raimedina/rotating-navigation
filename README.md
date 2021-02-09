@@ -2,4 +2,4 @@
 
 Rotating navigation.
 
-![Preview of rotating navigation](img/rotate-navigation.gif)
+![Preview of rotating navigation](img/rotating-navigation.gif)
